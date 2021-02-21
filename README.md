@@ -1,6 +1,10 @@
-# dice_roller
+# Dice Roller 
+
+Built using **Flutter**
 
 We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
+
+![dice](/ressources/dice.jpg)
 
 ## what i learned from the project:
 
@@ -14,4 +18,9 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 - Learn about basic dart programming concepts such as - data types and functions.
 - Code and use gesture controls.
 
-## obelouch 1337
+## Owner
+
+- Oussama Belouche 1337
+
+#
+[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
